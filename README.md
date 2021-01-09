@@ -1,9 +1,10 @@
 # Vicky
 A modular group management bot
-#CONTENTS :
+
+    #CONTENTS :
 1start message of vicky and commands of vicky
 2 creater and admins
-#start message of vicky
+   #start message of vicky
 👋Hey! My name is Vicky . I am a group management bot, get careful with me,set filter with me! Because, 
 I have lots of admin features, such as flood control, a warning system, a note keeping system, and even predetermined replies on certain keywords.
 
@@ -32,9 +33,9 @@ If you have any bugs or questions on how to use me, have a look at my website, o
 ⚅⚅⚃  /warn - to warn users 👥.                                                        
 ⚅⚅⚄  /flim - it is for magical sticker and photos.                               
 Further questions or doubts contact : p. Subasri, balasarathi, kavin or ask in support or discussion group, otherwise news channel.
-#creaters and admin
+   #creaters and admin
 P. Subasri      - 6 std
 P. Balasarathi. - 4 std
-#deploy key
+  #deploy key
 This deploy keys button 🔳 menu 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2subasri6a%2Fgroupmanager)
